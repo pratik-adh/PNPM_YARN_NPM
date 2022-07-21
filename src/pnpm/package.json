@@ -1,0 +1,17 @@
+{
+  "name": "PNPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "https://github.com/pratik-adh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "formik": "^2.2.9",
+    "moment": "^2.29.4"
+  }
+}

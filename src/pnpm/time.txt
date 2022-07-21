@@ -1,0 +1,16 @@
+Time required to install the three dependencies:
+
+Fresh install:
+real    0m1.374s
+user    0m0.734s
+sys     0m1.208s
+
+Re-installing the packages removing the node_modules:
+real    0m0.683s
+user    0m0.400s
+sys     0m0.831s
+
+Re-installing the packages after clearing cache and node_modules and pnpm-lock.yaml:
+real    0m1.332s
+user    0m0.577s
+sys     0m1.017s
