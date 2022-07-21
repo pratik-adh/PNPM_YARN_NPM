@@ -1,0 +1,15 @@
+Time required to install the three dependencies:
+
+real    0m1.180s
+user    0m0.809s
+sys     0m0.451s
+
+Re-installing the packages removing the node_modules:
+real    0m0.843s
+user    0m0.616s
+sys     0m0.410s
+
+Re-installing the packages after clearing cache and node_modules and package-lock.json:
+real    0m1.341s
+user    0m0.958s
+sys     0m0.459s

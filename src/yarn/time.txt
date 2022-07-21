@@ -1,0 +1,15 @@
+Time required to install the three dependencies:
+
+real    0m1.705s
+user    0m0.780s
+sys     0m0.669s
+
+Re-installing the packages removing the node_modules:
+real    0m0.511s
+user    0m0.394s
+sys     0m0.497s
+
+Re-installing the packages after clearing cache and node_modules and yarn.lock:
+real    0m1.775s
+user    0m1.188s
+sys     0m0.864s
