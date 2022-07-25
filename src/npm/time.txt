@@ -1,10 +1,11 @@
 Time required to install the three dependencies:
 
+Fresh Install:
 real    0m1.180s
 user    0m0.809s
 sys     0m0.451s
 
-Re-installing the packages removing the node_modules:
+Re-installing the packages after removing the node_modules:
 real    0m0.843s
 user    0m0.616s
 sys     0m0.410s

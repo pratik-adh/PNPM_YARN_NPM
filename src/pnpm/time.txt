@@ -5,7 +5,7 @@ real    0m1.374s
 user    0m0.734s
 sys     0m1.208s
 
-Re-installing the packages removing the node_modules:
+Re-installing the packages after removing the node_modules:
 real    0m0.683s
 user    0m0.400s
 sys     0m0.831s
