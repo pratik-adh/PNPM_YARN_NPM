@@ -1,4 +1,5 @@
 Time required to install the three dependencies:
+
 Fresh install:
 real    0m1.374s
 user    0m0.734s
